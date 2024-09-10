@@ -1,4 +1,4 @@
-# Create VPC using CLI
+be# Create VPC using CLI
 
 You'll need the IBM's CLI. You can install it [here](https://cloud.ibm.com/docs/cli?topic=cli-getting-started) via command line.
 
@@ -20,7 +20,7 @@ Use `ibmcloud target -g <resource_group_name>`
 
 Think about a name for the VPC, names don't have a global scope so you can use whatever you want.
 
-In a shared account, it is a good practice to recall your resource group's name in the beggining of the VPC name. e.g `isuarez-vpc`
+In a shared account, it is a good practice to recall your resource group's name in the beginning of the VPC name. e.g `isuarez-vpc`
 
 Use `ibmcloud is vpcc <vpc_name>`
 
