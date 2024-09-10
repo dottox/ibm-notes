@@ -5,9 +5,9 @@
 Todos los cursos que se verán en este repositorio son gratuitos o de pago (en caso de ser de pago, saber que al ser IBMer los tendrías gratis)
 
 Todos los cursos tienen una (o más) de las siguientes finalidades:
-📱 | Mobile Development
-🔄 | DevOps Engineering
-☁️ | Cloud Engineering
+* 📱 | Mobile Development
+* 🔄 | DevOps Engineering
+* ☁️ | Cloud Engineering
 
 `!Tutos`: Carpeta con tutoriales para ser usados en la nube de IBM. Te guía en diferentes procesos, por ejemplo, en la creación de servicios.
 
