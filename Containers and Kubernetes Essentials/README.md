@@ -56,6 +56,7 @@ Controla el estado en general del clúster. Tiene varios componentes:
 
 
 
+
 ![alt text](assets/OpenShift.webp)
 
 **Red Hat OpenShift** es una extensión de Kubernetes, permite funciones adicionales (tales como una GUI) que permiten el build, deploy and run secure cloud-native applications en cualquier lado.Tiene a Kubernetes como parte interior.
