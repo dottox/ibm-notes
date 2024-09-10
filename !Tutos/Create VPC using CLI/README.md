@@ -11,7 +11,7 @@ Use `ibmcloud login`, you'll have to do some steps.
 
 ## 2. Target the resource group
 
-Now, you'll have to target your resource group. I think that this isn't necessarily if you're using a personal account (I can be wrong, clearly)
+Now, you'll have to target your resource group. I think this isn't necessary if you're using a personal account (I can be wrong, clearly)
 
 Use `ibmcloud target -g <resource_group_name>`
 > Replace <resource_group_name> with your resource group's name. You can create one in the web UI or search for the CLI's command.
