@@ -5,7 +5,7 @@
 #### Badge IBM: [Containers & Kubernetes Essentials](https://yourlearning.ibm.com/credential/CREDLY-5eef1a66-1a37-42cc-940a-e7160661810a)
 
 ##### Comienzo: 10/09/24
-##### Finalizado: ---
+##### Finalizado: 11/09/24
 
 ![Docker](assets/Docker-Logo.png)
 
