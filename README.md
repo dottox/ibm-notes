@@ -12,9 +12,9 @@ Todos los cursos tienen una (o más) de las siguientes finalidades:
 `!Tutos`: Carpeta con tutoriales para ser usados en la nube de IBM. Te guía en diferentes procesos, por ejemplo, en la creación de servicios.
 
 ## Cursos en proceso:
-- [Containers and Kubernetes Essentials](https://github.com/dottox/ibm-notes/tree/main/Containers%20and%20Kubernetes%20Essentials)
+- 
 
 ## Cursos completos:
-- 
+- [Containers and Kubernetes Essentials](https://github.com/dottox/ibm-notes/tree/main/Containers%20and%20Kubernetes%20Essentials)
 
 ***Disclaimer**: No hay ningun tipo de información confidencial de IBM, ni tampoco lo habrá en el futuro. El único objetivo de estos cursos es resumir y retener conocimiento, para facilitarle el proceso de aprendizaje a cualquier persona, así como a mi mismo en un futuro.*
