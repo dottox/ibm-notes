@@ -2,7 +2,7 @@
 
 Today, we are going to deploy this architecture:
 
-![Arquitectura](desafio-power-no-ips.png)
+![Arquitectura](assets/desafio-power-no-ips.png)
 
 **What is [PowerVS](https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-getting-started)?**
 - IBM® Power® Virtual Server is an IBM Power server offering. You can use the Power Virtual Server to deploy a virtual server, also known as a logical partition (LPAR), in a matter of minutes. You can provision flexible, secure, and scalable compute capacity for Power enterprise workloads both on IBM Power Virtual Server (Off-premises and On-premises) in your data center.
