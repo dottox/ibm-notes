@@ -1,4 +1,4 @@
-be# Create VPC using CLI
+# Create VPC using CLI
 
 You'll need the IBM's CLI. You can install it [here](https://cloud.ibm.com/docs/cli?topic=cli-getting-started) via command line.
 
